@@ -1,2 +1,2 @@
 # chat-time
-Real Time Chat App Using Node and Socket,io
+Real Time Chat App Using Node and Socket.io
